@@ -1,0 +1,2 @@
+we need to add a new mathematical library
+run: "pip install numpy"
