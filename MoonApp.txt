@@ -1,0 +1,29 @@
+Important: This is the Chatbot version of Moon, If you want full capabilities, Use NewMoonCoder.
+
+Step 1: Prerequisites (Required)
+
+Before running the app, you must have the "brain" (Ollama) installed and running.
+
+  Install Ollama: Download and install it from ollama.com
+
+  Keep Ollama Running: Ensure the Ollama icon is visible in your system tray (Windows)
+
+
+Step 2: Set Terminal to "Light Mode" (Crucial)
+
+-> If you skip this, the app will be unreadable <-
+
+
+For Windows Users (Windows Terminal / PowerShell)
+
+  Open Windows Terminal (the modern version of PowerShell).
+
+  Click the down arrow in the tab bar and select Settings.
+
+  On the left sidebar, click on Color Schemes.
+
+  Select a light theme such as "One Half Light" or "Tango Light".
+
+  Click Save.
+
+  Restart PowerShell
