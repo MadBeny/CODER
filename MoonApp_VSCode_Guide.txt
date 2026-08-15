@@ -1,0 +1,8 @@
+if you don’t like PowerShell and want a better looking MoonApp
+instead of double clicking on MoonApp.exe 
+do this:
+
+1. Open VS Code
+2. File -> Open Folder
+3. Open the folder that contains MoonApp.exe
+4. Run this code: ./MoonApp.exe (or ./MoonApp)
