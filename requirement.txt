@@ -1,5 +1,0 @@
-you just need to install a new library
-
-run this code:
-
-pip install json-repair
