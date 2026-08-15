@@ -1,0 +1,8 @@
+If you don’t like the Light theme, This one is for you
+
+For better experience use it on VS Code
+
+Open VS Code -> Change Theme to “Dark 2026”
+Then go to File -> Open Folder and Open the Folder
+
+Open Terminal (Terminal -> New Terminal) and write this code: ./MoonAppNight
