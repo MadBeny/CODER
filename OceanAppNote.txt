@@ -1,2 +1,0 @@
-Please use it with VS Code Terminal.
-If you double click on it, it’ll open PowerShell which looks bad.
