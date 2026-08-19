@@ -1,0 +1,16 @@
+TUI Chat // Written in GO & Bubble Tea // Using Ollama "localhost:11434/api"
+
+How To Use:
+
+The Easy Way:
+
+1. Double Click On NewMoonTUI.exe
+2. Make Sure PowerShell -> Color Scheme -> Dark+
+
+The Better Way:
+
+1. Open VS Code
+2. Open The Folder That Contains NewMoonTUI.exe (File -> Open Folder)
+3. Change Your Theme To Dark 2026 (File -> Preferences -> Themes -> Color Theme)
+4. Open Terminal (... -> Terminal -> New Terminal)
+5. Run: ./OceanApp
