@@ -1,0 +1,12 @@
+This is an Agentic Python script that uses Ollama
+You can use every Open Model that supports Ollama
+It Creates files, Reads Files, Runs low-level System Commands
+Reads Pdf, Searches Files, Runs Python Code, Does High Precision Math
+Also many features for Editing Files
+
+Just Ask it!
+
+Requirements -> Run This Code Below:
+
+
+pip install numpy langchain json-repair ollama pydantic typing-extensions sentence-transformers langchain-ollama langchain-core langgraph rich pypdf psutil
