@@ -1,0 +1,16 @@
+New Update:
+
+1. Changed Theme to Night style.
+2. /import Command Now Supports Excel files. (".xlsx", ".xlsm", ".xlam", ".xltm", ".xltx")
+3. /import Command Now Supports PDF files. (".pdf")
+4. Fixed FilePicker Bugs.
+5. More Robust Dynamic Window Size.
+6. Improved Styles and Colors.
+7. Better File Handling
+8. Improved Animations 
+9. Improved Characteristics
+10. Improved Functions and Code Efficiency 
+11. Improved History Saving for More Accuracy 
+12. Better Compiling Method
+
+also thanks to: github.com/ledongthuc / github.com/xuri / github.com/charmbracelet
