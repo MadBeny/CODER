@@ -1,0 +1,8 @@
+Support for Mac (M1, M2, M3, ... Chips)
+
+Uses The Latest 'OceanAppUpdated'// Make Sure Terminal / Vs Code -> Dark Mode
+
+How To Use:
+
+1. Make it executable: chmod +x OceanAppMac
+2. Launch: ./OceanAppMac
