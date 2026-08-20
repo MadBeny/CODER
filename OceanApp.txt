@@ -1,9 +1,0 @@
-New Update (Use OceanApp Instead Of NewMoonTUI & OceanMoonTUI)
-
-Added Features:
-
-1. Now You Can Add Files To Your Chat With: /import (type it and press enter)
-
-2. Added Distinct Style For Emphasized -- ansi.StylePrimitive
-
-3. Adjust AI Temperature Using (Ctrl + S) // Lower = Deterministic - Higher = Creative
